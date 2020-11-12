@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-coloroflight",
+  "version": "0.0.1",
+  "description": "ESLint Config by ColorOfLight",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColorOfLight/eslint-config-coloroflight.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "airbnb",
+    "javascript",
+    "styleguide",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018"
+  ],
+  "author": "Seongho Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ColorOfLight/eslint-config-coloroflight/issues"
+  },
+  "homepage": "https://github.com/ColorOfLight/eslint-config-coloroflight#readme"
+}
